@@ -9,8 +9,6 @@ import { Container } from './styles';
 const Summary: React.FC = () => {
   const transactions = useContext(TransactionsContext);
 
-  console.log(transactions);
-
   return (
     <Container>
       <div>
