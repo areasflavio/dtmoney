@@ -49,6 +49,8 @@ The application is built using ReactJS. Data is provided by a API build using
 MirageJS. The user interface is built with Styled Components. The entire codebase
 is written using Typescript.
 
+> Project developed at Chapter II of Rocketseat's Ignite bootcamp.
+
 <br/>
 
 # :keyboard: Technologies
